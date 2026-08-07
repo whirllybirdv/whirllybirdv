@@ -1,3 +1,1 @@
-
-<img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/f20a9ad3-87b7-4130-99d1-ddf69ba4bc02" />
-https://inu-maki.straw.page/
+<img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/1d077cca-dd15-46ae-8b6d-8dfba43ca67d" />
